@@ -12,25 +12,25 @@ I am a junior web developer, working on, as well as improving my skills in:
 <div style="flex: 1; margin-right: 10px;">
 <h3>Web Development</h3>
 <ul>
-  <li><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" style="width: 30px; height: 30px;"></li>
+  <li><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" style="height: 35px; width: auto;"></li>
 </ul>
 </div>
 
 <div style="flex: 1;">
 <h3>Game Design</h3>
 <ul>
-  <li><img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator" style="width: 30px; height: 30px;"></li>
-  <li><img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" style="width: 30px; height: 30px;"></li>
+  <li><img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator" style="height: 35px; width: auto;"></li>
+  <li><img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" style="height: 35px; width: auto;"></li>
 </ul>
 </div>
 
