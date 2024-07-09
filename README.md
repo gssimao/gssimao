@@ -39,7 +39,7 @@ I am a junior web developer, working on, as well as improving my skills in:
 ## ⭐ My Current Dreams and Aspirations
 <table>
   <tr>
-    <td>🐾 Win one of the races up and down the stairs against my cat, Mildred</td>
+    <td>🐾 Win one of the races up and down the stairs against my cat</td>
   </tr>
   <tr>
     <td>🥏 End even at a disc golf match</td>
