@@ -70,4 +70,4 @@
 +-------------------------------------------------------------------------------------------------------------------+
 ```
 
-[![Cool Gabe Website](https://img.shields.io/badge/Visit-Gabe's%20Website-brightgreen?style=for-the-badge)](https://gabesimao.com)
+[![Cool Gabe Website](https://img.shields.io/badge/Visit-Gabe's%20Website-brightgreen?style=for-the-badge)](https://gssimao.com/)
