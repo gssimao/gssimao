@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgssimao-github-readme%2Fvisits&query=%24.value&label=Visitors&color=A78BFA&style=flat-square" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=gssimao&label=Visitors&color=A78BFA&style=flat-square" alt="visitor count" />
 
 <!--WIZARD_COMMENT_START-->
 *"Not a soul has passed through yet."*
