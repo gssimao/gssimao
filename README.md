@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=gssimao&label=Visitors&color=A78BFA&style=flat-square" alt="visitor count" />
 
 <!--WIZARD_COMMENT_START-->
-*"A trickle of visitors, nothing more."*
+*"Word hasn't quite got round yet."*
 <!--WIZARD_COMMENT_END-->
 
 <br/>
