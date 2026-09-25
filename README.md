@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=gssimao&label=Visitors&color=A78BFA&style=flat-square" alt="visitor count" />
 
 <!--WIZARD_COMMENT_START-->
-*"Word hasn't quite got round yet."*
+*"Only crickets in here."*
 <!--WIZARD_COMMENT_END-->
 
 <br/>
