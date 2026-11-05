@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=gssimao&label=Visitors&color=A78BFA&style=flat-square" alt="visitor count" />
 
 <!--WIZARD_COMMENT_START-->
-*"Only crickets in here."*
+*"A trickle of visitors, nothing more."*
 <!--WIZARD_COMMENT_END-->
 
 <br/>
