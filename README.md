@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=gssimao&label=Visitors&color=A78BFA&style=flat-square" alt="visitor count" />
 
 <!--WIZARD_COMMENT_START-->
-*"People keep finding this place, curious."*
+*"Even the crickets left."*
 <!--WIZARD_COMMENT_END-->
 
 <br/>
